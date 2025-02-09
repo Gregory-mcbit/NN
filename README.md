@@ -1,2 +1,2 @@
-# NN
-This is abou learning neural netwroks using PyTorch
+# Pytorch
+This is about learning PyTorch
